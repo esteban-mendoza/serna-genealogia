@@ -6,10 +6,10 @@ Este repositorio contiene el código fuente del libro "Genealogía de la soberbi
 
 ## ¿Cómo compilar el libro?
 
-Para compilar el libro, se debe ejecutar el siguiente comando:
+Para compilar el libro, ejecute el siguiente comando:
 
 ```bash
 zip -rX "../Serna, Enrique - Genealogía de la soberbia intelectual.epub" mimetype $(ls|xargs echo|sed 's/mimetype//g') -x \*.DS_Store -x \*.git\*
 ```
 
-El comando anterior generará un archivo llamado "Serna, Enrique - Genealogía de la soberbia intelectual.epub" en el directorio padre del repositorio.
+El comando anterior generará un archivo llamado _Serna, Enrique - Genealogía de la soberbia intelectual.epub_ en el directorio padre del repositorio.
