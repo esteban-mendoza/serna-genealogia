@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:2f2712d4-a47a-0b03-bc8d-0f55d3b4213d" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Genealogía de la soberbia intelectual</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Cubierta</text>
+      </navLabel>
+      <content src="Text/cubierta.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Genealogía de la soberbia intelectual</text>
+      </navLabel>
+      <content src="Text/titulo.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Introducción</text>
+      </navLabel>
+      <content src="Text/Introduccion.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>I. Ciencia sin caridad</text>
+      </navLabel>
+      <content src="Text/I.Cienciasincaridad.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>II. La lengua de los dioses</text>
+      </navLabel>
+      <content src="Text/II.Lalenguadelosdioses.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>III. El argumento de autoridad</text>
+      </navLabel>
+      <content src="Text/III.Elargumentodeautoridad.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>IV. Privilegios de casta</text>
+      </navLabel>
+      <content src="Text/IV.Privilegiosdecasta.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>V. La jaula del espíritu superior</text>
+      </navLabel>
+      <content src="Text/V.Lajauladelespiritusuperior.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>VI. El sabotaje interno</text>
+      </navLabel>
+      <content src="Text/VI.Elsabotajeinterno.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>VII. Imitación de la aristocracia</text>
+      </navLabel>
+      <content src="Text/VII.Imitaciondelaaristocracia.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>VIII. El orden y la aventura</text>
+      </navLabel>
+      <content src="Text/VIII.Elordenylaaventura.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>IX. El genio de la bestia</text>
+      </navLabel>
+      <content src="Text/IX.Elgeniodelabestia.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>X. La pesadilla de la razón</text>
+      </navLabel>
+      <content src="Text/X.Lapesadilladelarazon.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Autor</text>
+      </navLabel>
+      <content src="Text/autor.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Notas</text>
+      </navLabel>
+      <content src="Text/notasI.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

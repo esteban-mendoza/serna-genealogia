@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:2f2712d4-a47a-0b03-bc8d-0f55d3b4213d</dc:identifier>
+    <dc:title>Genealogía de la soberbia intelectual</dc:title>
+    <dc:creator opf:file-as="Serna, Enrique" opf:role="aut">Enrique Serna</dc:creator>
+    <dc:language>es</dc:language>
+    <dc:subject>Ensayo, Filosofía</dc:subject>
+    <dc:description>La soberbia ha marcado a los intelectuales, artistas y creadores desde el comienzo de la historia, quienes han hecho todo lo posible por separarse y desdeñar a la gente común y, así, mostrarse como una casta aparte. Sin embargo, la soberbia intelectual no sólo ha sido creada por los mismos intelectuales: ellos han contado con el apoyo de personas e instituciones que han apostado por la ignorancia y la arrogancia. En este libro, Enrique Serna examina los distintos tipos de pedantería intelectual que han presentado poetas, narradores y filósofos por igual, ofreciéndonos un fino análisis sobre la relación entre el arte, la soberbia y el poder.</dc:description>
+    <dc:date opf:event="publication">2013-10-23</dc:date>
+    <dc:date opf:event="modification">2018-08-10</dc:date>
+    <dc:publisher>ePubLibre</dc:publisher>
+    <meta content="0.8.4" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Text/cubierta.xhtml" id="cubierta.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/sinopsis.xhtml" id="sinopsis.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/titulo.xhtml" id="titulo.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/info.xhtml" id="info.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/dedicatoria.xhtml" id="dedicatoria.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/autor.xhtml" id="autor.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasI.xhtml" id="notasI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/EPL_logo.png" id="EPL_logo.png" media-type="image/png" />
+    <item href="Images/ex_libris.png" id="ex_libris.png" media-type="image/png" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="Text/I.Cienciasincaridad.xhtml" id="I.Cienciasincaridad.xhtml" media-type="application/xhtml+xml" />
+    <item href="Fonts/GoudyOldStyle.ttf" id="GoudyOldStyle.ttf" media-type="application/x-font-ttf" />
+    <item href="Text/Introduccion.xhtml" id="Introduccion.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Intro1.xhtml" id="Intro1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ciencia.xhtml" id="Ciencia.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasII.xhtml" id="notasII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/II.Lalenguadelosdioses.xhtml" id="II.Lalenguadelosdioses.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Dioses.xhtml" id="Dioses.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/III.Elargumentodeautoridad.xhtml" id="III.Elargumentodeautoridad.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasIII.xhtml" id="notasIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/IV.Privilegiosdecasta.xhtml" id="IV.Privilegiosdecasta.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Casta.xhtml" id="Casta.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasIV.xhtml" id="notasIV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Argumento.xhtml" id="Argumento.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/V.Lajauladelespiritusuperior.xhtml" id="V.Lajauladelespiritusuperior.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Jaula.xhtml" id="Jaula.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasV.xhtml" id="notasV.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/VI.Elsabotajeinterno.xhtml" id="VI.Elsabotajeinterno.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Sabotaje.xhtml" id="Sabotaje.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasVI.xhtml" id="notasVI.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/VII.Imitaciondelaaristocracia.xhtml" id="VII.Imitaciondelaaristocracia.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Aristocracia.xhtml" id="Aristocracia.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasVII.xhtml" id="notasVII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/VIII.Elordenylaaventura.xhtml" id="VIII.Elordenylaaventura.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Aventura.xhtml" id="Aventura.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasVIII.xhtml" id="notasVIII.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/IX.Elgeniodelabestia.xhtml" id="IX.Elgeniodelabestia.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Bestia.xhtml" id="Bestia.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasIX.xhtml" id="notasIX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/X.Lapesadilladelarazon.xhtml" id="X.Lapesadilladelarazon.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Pesadilla.xhtml" id="Pesadilla.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/notasX.xhtml" id="notasX.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/autor.jpg" id="autor.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cubierta.xhtml" />
+    <itemref idref="sinopsis.xhtml" />
+    <itemref idref="titulo.xhtml" />
+    <itemref idref="info.xhtml" />
+    <itemref idref="dedicatoria.xhtml" />
+    <itemref idref="Introduccion.xhtml" />
+    <itemref idref="Intro1.xhtml" />
+    <itemref idref="I.Cienciasincaridad.xhtml" />
+    <itemref idref="Ciencia.xhtml" />
+    <itemref idref="II.Lalenguadelosdioses.xhtml" />
+    <itemref idref="Dioses.xhtml" />
+    <itemref idref="III.Elargumentodeautoridad.xhtml" />
+    <itemref idref="Argumento.xhtml" />
+    <itemref idref="IV.Privilegiosdecasta.xhtml" />
+    <itemref idref="Casta.xhtml" />
+    <itemref idref="V.Lajauladelespiritusuperior.xhtml" />
+    <itemref idref="Jaula.xhtml" />
+    <itemref idref="VI.Elsabotajeinterno.xhtml" />
+    <itemref idref="Sabotaje.xhtml" />
+    <itemref idref="VII.Imitaciondelaaristocracia.xhtml" />
+    <itemref idref="Aristocracia.xhtml" />
+    <itemref idref="VIII.Elordenylaaventura.xhtml" />
+    <itemref idref="Aventura.xhtml" />
+    <itemref idref="IX.Elgeniodelabestia.xhtml" />
+    <itemref idref="Bestia.xhtml" />
+    <itemref idref="X.Lapesadilladelarazon.xhtml" />
+    <itemref idref="Pesadilla.xhtml" />
+    <itemref idref="autor.xhtml" />
+    <itemref idref="notasI.xhtml" />
+    <itemref idref="notasII.xhtml" />
+    <itemref idref="notasIII.xhtml" />
+    <itemref idref="notasIV.xhtml" />
+    <itemref idref="notasV.xhtml" />
+    <itemref idref="notasVI.xhtml" />
+    <itemref idref="notasVII.xhtml" />
+    <itemref idref="notasVIII.xhtml" />
+    <itemref idref="notasIX.xhtml" />
+    <itemref idref="notasX.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cubierta.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
