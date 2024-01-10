@@ -2,7 +2,7 @@
 
 ## ¿Qué es este repositorio?
 
-Este repositorio contiene el código fuente del libro "Genealogía de la soberbia intelectual", escrito por Enrique Serna.
+Este repositorio contiene el código fuente del libro "Genealogía de la soberbia intelectual", escrito por Enrique Serna en formato ePub.
 
 ## ¿Cómo compilar el libro?
 
